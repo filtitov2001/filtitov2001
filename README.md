@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 # My stats
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=filtitov2001&bg_color=000000,1e0f2a,32144f,481677,5d16a2,7410d0,8b00ff&title_color=e2b9ff&text_color=e2b9ff&hide_border=true&card_height=260)
-![Felix's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filtitov2001&layout=compact&card_width=350&bg_color=000000,1e0f2a,32144f,481677,5d16a2,7410d0,8b00ff&title_color=e2b9ff&text_color=e2b9ff&hide_border=true&hide=html&langs_count=8)
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=filtitov2001&bg_color=000000,1e0f2a,32144f,481677,5d16a2,7410d0,8b00ff&title_color=e2b9ff&text_color=e2b9ff&hide_border=true&card_width=400)
+# My mist used languages
+![Felix's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filtitov2001&layout=compact&card_width=500&bg_color=000000,1e0f2a,32144f,481677,5d16a2,7410d0,8b00ff&title_color=e2b9ff&text_color=e2b9ff&hide_border=true&hide=html&langs_count=8)
 
 
 <!--
