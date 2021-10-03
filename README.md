@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# My stats
+[!Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=filtitov2001&bg_color=000000,1e0f2a,32144f,481677,5d16a2&title_color=fff&text_color=fff)
+
 <!--
 **filtitov2001/filtitov2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
