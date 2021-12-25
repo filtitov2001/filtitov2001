@@ -5,8 +5,8 @@
 # My most used languages
 ![Felix's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filtitov2001&layout=compact&card_width=450&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&border_radius=15&hide_border=true&hide=html,mustache&langs_count=9) -->
 # My most used languages
-![Felix's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filtitov2001)
-&layout=compact&card_width=450&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&border_radius=15&hide_border=true&hide=html,mustache&langs_count=7
+![Felix's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filtitov2001&hide=html,mustache&langs_count=8)
+&layout=compact&card_width=450&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&border_radius=15&hide_border=true
 
 <!--
 **filtitov2001/filtitov2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
