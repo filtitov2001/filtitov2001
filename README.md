@@ -1,3 +1,5 @@
+
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Felix Titov!](https://portfolio-fta.herokuapp.com) 
 # My stats
 ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=filtitov2001&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&card_width=400&border_radius=15)
 <!-- # My most used languages
