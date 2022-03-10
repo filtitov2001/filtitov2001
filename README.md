@@ -9,7 +9,7 @@
 <p align="center">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=filtitov2001&show_icons=true&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&icons_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&border_radius=30&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filtitov2001&layout=compact&hide=css,html,mustache&langs_count=6&card_width=450&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&border_radius=15&hide_border=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filtitov2001&layout=compact&hide=css,html,mustache&langs_count=8&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&border_radius=15&hide_border=true&hide_border=true"/>
 
 </p>
 <!-- <a href="https://github.com/AVS1508"></a> -->
