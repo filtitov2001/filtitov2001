@@ -1,5 +1,7 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Felix Titov!](https://portfolio-fta.herokuapp.com)
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/filtitov2001/filtitov2001/blob/main/assets/Mobile%20development-rafiki.svg" />
+</br></br>
 
 ## 😄 &nbsp;About me 
 * ✌️ My name is Felix, I am 21 years old. I have been doing programming for about 3 years, trying out different technologies, in particular in iOS.
