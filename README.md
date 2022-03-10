@@ -13,7 +13,7 @@
 * ⚡ Fun fact: I love history
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=filtitov2001&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&hide_border=true"/>
