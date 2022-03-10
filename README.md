@@ -23,13 +23,12 @@
 
 </div>
 
-<details>
+
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=filtitov2001&custom_title=Felix's%20Contribution%20Graph&theme=material-palenight" /></a>
   <br/>
 
-</details>
 
 ## ℹ &nbsp;More Info
 
