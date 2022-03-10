@@ -1,10 +1,9 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Felix Titov!](https://portfolio-fta.herokuapp.com)
-<!-- # My stats
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=filtitov2001&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&card_width=400&border_radius=15)
 
-# My most used languages
-![Felix's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filtitov2001&hide=css,html,mustache&langs_count=6&layout=compact&card_width=450&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&border_radius=15&hide_border=true) -->
+## 😄 About me 
+✌️ My name is Felix, I am 21 years old. I have been doing programming for about 3 years, trying out different technologies, in particular in iOS.
+* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Russia" /> I'm from Brazil
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
