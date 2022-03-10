@@ -2,8 +2,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Felix Titov!](https://portfolio-fta.herokuapp.com)
 
 ## 😄 About me 
-✌️ My name is Felix, I am 21 years old. I have been doing programming for about 3 years, trying out different technologies, in particular in iOS.
-* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Russia" /> I'm from Brazil
+* ✌️ My name is Felix, I am 21 years old. I have been doing programming for about 3 years, trying out different technologies, in particular in iOS.
+* 🇷🇺🇺🇿  I'm from Russia and Uzbekistan
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
