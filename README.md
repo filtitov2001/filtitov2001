@@ -2,6 +2,9 @@
 <img align="right" width="300px" style="margin-top:-20px" src="https://github.com/filtitov2001/filtitov2001/blob/main/assets/Mobile%20development-pana.svg" />
 
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Felix Titov!](https://portfolio-fta.herokuapp.com)
+<p>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;iOS%20|Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+</p>
 
 ## 😄 &nbsp;About me 
 * ✌️ My name is Felix, I am 21 years old. I have been doing programming for about 3 years, trying out different technologies, in particular in iOS.
