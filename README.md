@@ -21,14 +21,15 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=filtitov2001&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filtitov2001&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
 
-  <details>
+</div>
+
+<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=filtitov2001&custom_title=Felix's%20Contribution%20Graph&theme=material-palenight" /></a>
   <br/>
 
 </details>
-</div>
 
 ## ℹ &nbsp;More Info
 
