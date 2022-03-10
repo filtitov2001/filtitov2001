@@ -23,7 +23,7 @@
 
 ## ℹ &nbsp;More Info
 
-To get more info about me, my skills and CV, visit my [💼 Portfolio website!](https://portfolio-fta.herokuapp.com)
+<h2>To get more info about me, my skills and CV, visit my [💼 Portfolio website!](https://portfolio-fta.herokuapp.com)</h2>
 
 <!--
 **filtitov2001/filtitov2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
