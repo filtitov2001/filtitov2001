@@ -13,13 +13,17 @@
 * ⚡ Fun fact: I love history
 
 
-## ⚙️ &nbsp;GitHub Analytics
+## 📈 &nbsp;GitHub Analytics
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=filtitov2001&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=filtitov2001&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
 
 </div>
+
+## ℹ &nbsp;More Info
+
+To get more info about me, my skills and CV, visit my [💼 Portfolio website!](https://portfolio-fta.herokuapp.com)
 
 <!--
 **filtitov2001/filtitov2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
