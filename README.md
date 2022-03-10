@@ -1,9 +1,16 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Felix Titov!](https://portfolio-fta.herokuapp.com)
 
-## 😄 About me 
+## 😄 &nbsp;About me 
 * ✌️ My name is Felix, I am 21 years old. I have been doing programming for about 3 years, trying out different technologies, in particular in iOS.
 * 🇷🇺🇺🇿  I'm from Russia and Uzbekistan
+* 🏠 I live in Moscow, Russia
+* 🎓 Here will be about my education
+* 💻 I'm currently looking for a job in Mobile Development
+* 👨🏻‍💻 I’m currently working on my iOS Pet-project
+* <img width="16" src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-1024.png" alt="" /> My favorite programming language is Swift
+* ✈️ I love travelling. It's one of my favorite hobbies.
+* ⚡ Fun fact: I love history
 
 
 ### ⚙️ &nbsp;GitHub Analytics
