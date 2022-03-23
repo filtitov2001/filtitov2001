@@ -36,7 +36,7 @@
 
 ## ℹ &nbsp;More Info
 
-#### To get more info about me, my skills and CV, visit my [💼 Portfolio website](https://portfolio-fta.herokuapp.com) and contact with me by [<img width="20" style="margin-top: -10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png" alt="" /> Telegram](https://t.me/thefiltitoff)!
+#### To get more info about me, my skills and CV, visit my [💼 Portfolio website](https://portfolio-fta.herokuapp.com) and contact with me by [<img width="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png" alt="" /> Telegram](https://t.me/thefiltitoff)!
 <!-- * 🏠 I live in Moscow, Russia -->
 <!--
 **filtitov2001/filtitov2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
