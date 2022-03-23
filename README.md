@@ -11,7 +11,7 @@
 ## 😄 &nbsp;About me 
 * ✌️ My name is Felix, I am 21 years old. I have been doing programming for about 3 years, trying out different technologies, in particular in iOS.
 * 🇷🇺🇺🇿  I'm from Russia and Uzbekistan
-* 🏠 I live in Moscow, Russia
+<!-- * 🏠 I live in Moscow, Russia -->
 * 🎓 I'm a student of Russian Technological University receiving a bachelor's degree of Programming science
 * 💻 I'm currently looking for a job in Mobile Development
 * 👨🏻‍💻 I’m currently working on my iOS Pet-project
