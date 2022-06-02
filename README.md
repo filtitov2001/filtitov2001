@@ -5,7 +5,7 @@
 
 <p>
  <img align="right" width="300px" style="margin-top:-20px" src="https://github.com/filtitov2001/filtitov2001/blob/main/assets/Mobile%20development-pana.svg" />
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=CAD1D8&lines=Programming+Science+Student;Web+Developer;iOS%20Developer;Always%20learning%20new%20things&width=500&height=50&font=monospace"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=CAD1D8&lines=Software+Engeneer+Student;Web+Developer;iOS%20Developer;Always%20learning%20new%20things&width=500&height=50&font=monospace"></a>
 </p>
 
 ## 😄 &nbsp;About me 
