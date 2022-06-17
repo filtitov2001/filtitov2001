@@ -13,7 +13,6 @@
 * 🇷🇺🇺🇿  I'm from Russia and Uzbekistan
 * 🎓 I'm a student of Russian Technological University receiving a bachelor's degree of Programming science
 * 💻 I'm currently looking for a job in Mobile Development
-* 👨🏻‍💻 I’m currently working on my iOS Pet-project
 * <img width="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/1300/swift-seeklogo-1024.png" alt="" /> My favorite programming language is Swift
 * ✈️ I love travelling. It's one of my favorite hobbies.
 * ⚡ Fun fact: I love history
